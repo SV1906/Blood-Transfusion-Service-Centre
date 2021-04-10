@@ -7,7 +7,7 @@ AIM: To use multinomial data set to visualise the best used method or model <br 
 ### 3 Data visualisation <br />
 ### 4 Resampling <br />
 ### 5 Spliting transufition data into train and test <br />
-### 6 Grafical Representation <br />
+### 6 Graphical Representation <br />
 #### 6.1 Heatmaps <br />
 #### 6.2 Histogram <br />
 ##### 6.2.1 BOXCOX <br />
